@@ -10,7 +10,7 @@ The dataset was collected from Kaggle: https://www.kaggle.com/datasets/blastchar
 A newer version of the dataset is also available from IBM: https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
 
 ## Methodology
-I performed feature engineering and feature selection and apply Logistic Regression to build the model.
+I performed feature engineering, feature selection and apply Logistic Regression to build the model.
 
 ## Result
 The final model using Logistic Regression reaches an accuracy of approximately 79% on the test set.
